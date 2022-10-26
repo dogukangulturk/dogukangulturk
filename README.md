@@ -1,6 +1,6 @@
-<div align="center">
+<!– <div align="center">
 <img src="https://media.giphy.com/media/uzOSCSVYB4Vz2oO77M/giphy.gif" align="center" style="width: 100%" />
-</div>  
+</div> –>
   
 
 ### <div align="center">I'm Doğukan, a full-time backend freelance developer 👨‍💻 </div>  
