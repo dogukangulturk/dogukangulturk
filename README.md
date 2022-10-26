@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://giphy.com/gifs/AyrtonSenna-8mgQWF7hk5m3XDj3pM?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://giphy.com/" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/8mgQWF7hk5m3XDj3pM/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
 
