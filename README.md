@@ -1,23 +1,3 @@
-<!– <div align="center">
-<img src="https://media.giphy.com/media/uzOSCSVYB4Vz2oO77M/giphy.gif" align="center" style="width: 100%" />
-</div> –>
-  
-
-### <div align="center">I'm Doğukan, a full-time backend freelance developer 👨‍💻 </div>  
-  
-
-- 🔭 I’m currently working on [Clubify](https://github.com/dogukangulturk/clubify)  
-  
-
-- 🌱 I’m currently learning Spring  
-  
-
-- ❓ Ask me about anything related to JAVA technologies  
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
